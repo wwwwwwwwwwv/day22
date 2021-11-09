@@ -2,8 +2,8 @@
 
 const arr = []
 
-while (true)
-{
+while (true){
+
     // 숫자를 생성 1- 45 사이의 숫자
     const num = parseInt(Math.random() * 45) + 1
 
